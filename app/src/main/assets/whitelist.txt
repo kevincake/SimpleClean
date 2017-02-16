@@ -1,1 +1,0 @@
-com.android.launcher|com.tencent.mm|com.android.phone|android|com.google.android.gsf|com.tencent.mobileqq,com.tencent.padqq|com.android.systemui|com.lge.quickcover|com.sec.android.sviewcover|com.letv.android.client
